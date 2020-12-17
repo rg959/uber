@@ -23,7 +23,7 @@ class SimpleMap extends Component {
             } >
             <
             <GoogleMapReact 
-              bootstrapURLKeys = {{ key: AIzaSyCO7A6D5IMBZZyhdX0rTHTvgHC6Zq1QBM4 }}
+              bootstrapURLKeys = {{ key: ?? }}
               defaultCenter = {this.props.center }
               defaultZoom = {this.props.zoom }
               yesIWantToUseGoogleMapApiInternals
